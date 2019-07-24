@@ -5,9 +5,9 @@
 layout: home
 ---
 
-## Actual site ##
-
-Website is currently underconstruction.
+# Actual site #
+Website is currently under massive reconstruction.
 Check back next time!
 For more information, check out our:
 [Facebook page](https://www.facebook.com/ieee.uwaterloo)
+
