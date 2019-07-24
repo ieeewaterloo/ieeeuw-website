@@ -4,3 +4,10 @@
 
 layout: home
 ---
+
+## Actual site ##
+
+Website is currently underconstruction.
+Check back next time!
+For more information, check out our:
+[Facebook page](https://www.facebook.com/ieee.uwaterloo)
