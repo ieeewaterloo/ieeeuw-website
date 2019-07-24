@@ -7,7 +7,10 @@ layout: home
 
 # Actual site #
 Website is currently under massive reconstruction.
+
 Check back next time!
-For more information, check out our:
+For more information, check out our 
 [Facebook page](https://www.facebook.com/ieee.uwaterloo)
+
+[facebookPage]: https://www.facebook.com/ieee.uwaterloo
 
